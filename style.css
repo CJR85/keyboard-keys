@@ -20,6 +20,8 @@ span {
   display: inline-block;
   width: 80px;
   height: 80px;
+  padding: 8px 15px;
+  margin: 8px 4px;
   border-radius: 10px;
   background: linear-gradient(180deg, #282828, #202020);
   box-shadow: inset -8px 0 8px rgba(0, 0, 0, 0.15),
@@ -47,5 +49,6 @@ span i {
   position: relative;
   color: #fff;
   font-style: normal;
+  font-size: 1.5em;
   text-transform: uppercase;
 }
