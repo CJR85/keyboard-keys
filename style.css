@@ -30,6 +30,10 @@ span {
   overflow: hidden;
 }
 
+span:last-child {
+  width: 100%;
+}
+
 span::before {
   content: '';
   position: absolute;
