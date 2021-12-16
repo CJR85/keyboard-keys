@@ -42,3 +42,10 @@ span::before {
   border-left: 1px solid #0004;
   border-top: 1px solid #0009;
 }
+
+span i {
+  position: relative;
+  color: #fff;
+  font-style: normal;
+  text-transform: uppercase;
+}
